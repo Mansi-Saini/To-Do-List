@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    background-color: rgb(214, 175, 214);
+    height: 9vh;
+    border-bottom-left-radius: 9px ;
+    border-bottom-right-radius: 9px;
+    text-align: center;
+    font-size: 2.5em;
+    color: white;
+}
+
+main{
+    height: 93vh;
+    margin-top: 1em;
+}
